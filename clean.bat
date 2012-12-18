@@ -1,3 +1,4 @@
+@echo off
 rmdir /S /Q build
 rmdir /S /Q ipch
 rmdir /S /Q bin
